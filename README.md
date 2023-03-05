@@ -1,2 +1,1 @@
-# Introducci-n-Henry
-Este es un repositorio de modo de prueba del módulo 2 de Henry
+Este es un proyecto de prueba de como crear un repositorio y clonarlo desde github a mi escritorio local (mi pc).
